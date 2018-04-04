@@ -47,8 +47,11 @@ npm install or yarn install
 
 ## Notes
 ```
-File naming on scss file: always start with "_"
+1. File naming on scss file: always start with "_"
 Example: _example.scss
+
+2. If you make a new scss file under web folder, don't forget to import it. Write it in index.scss
+Example: @import 'sass/web/example';
 ```
 
 ## Built With
