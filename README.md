@@ -13,6 +13,10 @@ open package.json
 change the project's name (and/or project's version if necessary)
 npm install or yarn install
 ```
+### Running the app
+```
+npm start or yarn start
+```
 
 ### Project Structure
 ```
